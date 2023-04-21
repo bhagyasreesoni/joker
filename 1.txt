@@ -11,3 +11,5 @@ hooks1
 postcommi
 Hello
 welcome to hell
+how are you?
+everything gonna be alright
